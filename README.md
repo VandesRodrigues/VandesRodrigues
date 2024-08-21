@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Vandes Rodrigues 👋
 
-- 🔭 Atualmente trabalho como Scrum Master.
+- 🔭 Atualmente trabalho como Analista de Suporte e desenvolvimento de Business Inteligence.
 - 💻 ETL + Desenvolvimento de Dashboards com Powerbi
 - 🌱 Estou estudando Python, Análise de Dados e UI/UX.
 - 🎓 Sistemas da Informação - UNOESC
